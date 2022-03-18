@@ -2,20 +2,20 @@
 <h3 align="center">Professional Web & Mobile developer</h3>
 
 <p align="center">
-  	<a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="https://www.linkedin.com/in/andzhei-kalenykov-a672b6225"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:upmanager200@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://join.skype.com/invite/M5lM6Wkhgr8z"><img src="https://img.icons8.com/doodle/48/000000/skype.png" alt="Telegram app"/></a>
-	<a href="https://t.me/upmanager200"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png" alt="Telegram app"/></a>
-	<a href="https://wa.me/380501802833"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+  	<!-- <a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<!-- <a href="https://www.linkedin.com/in/andzhei-kalenykov-a672b6225"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
+	<a href="mailto:devmaster926@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://join.skype.com/invite/E76cSipov38U"><img src="https://img.icons8.com/doodle/48/000000/skype.png" alt="Telegram app"/></a>
+	<a href="https://t.me/LuckyDev926"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png" alt="Telegram app"/></a>
+	<a href="https://wa.me/12097534219"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
 
 
 <a><h2>Stats</h2></a>
 <div>
-    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=upmanager&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=upmanager&theme=onedark&hide_border=true"/>
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=upmanager&row=1&theme=onedark&no-frame=true"/>
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=DevMaster926&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMaster926&theme=onedark&hide_border=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=DevMaster926&row=1&theme=onedark&no-frame=true"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
