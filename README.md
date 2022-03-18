@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Professional Developer</h1>
-<h3 align="center">Professional Web & Mobile developer</h3>
+<h1 align="center">👋 FullStack Developer</h1>
+<h3 align="center">Professional Web & Mobile Developer</h3>
 
 <p align="center">
   	<!-- <a href="https://up-manager.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
